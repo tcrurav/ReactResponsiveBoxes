@@ -1,0 +1,4 @@
+.home-wrapper {
+  background-color: var(--terciary-color);
+  min-height: 200vh;
+}
