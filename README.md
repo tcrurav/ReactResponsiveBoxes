@@ -4,7 +4,7 @@ This project is just that: a project example to learn how to use flexbox.
 
 ## Getting Started
 
-The final result looks like this, i.e. a simple CRUD without update.
+The final result looks like this, i.e. responsive.
 
 ![Screenshot](/screenshots/screenshot-01.gif)
 
