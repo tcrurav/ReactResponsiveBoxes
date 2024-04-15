@@ -27,7 +27,7 @@ let courses = [
     description: "Un texto relacionado con el Cardio de dos o tres líneas."
   },{
     icon: faBasketball,
-    title: "BASKETBALL",
+    title: "BASKET",
     description: "Un texto relacionado con el Basketball de dos o tres líneas."
   },{
     icon: faFutbol,
